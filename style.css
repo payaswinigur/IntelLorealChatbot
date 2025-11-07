@@ -13,6 +13,13 @@ body {
   justify-content: center;
 }
 
+.info-section {
+    background-color: #6a6a6a;
+    color: #ffffff;
+    padding: 100vw 20px 40px 20px;
+    text-align: center;
+}
+
 .page-wrapper {
   width: 90%;
   max-width: 900px;
@@ -134,10 +141,10 @@ body {
 
 .site-footer a {
   margin: 0 8px;
-  color: #000;
+  color: #6a6a6a;
   text-decoration: none;
 }
 
 .site-footer a:hover {
-  color: #666666;
+  color: #e3a535; /* L'Oréal gold */
 }
